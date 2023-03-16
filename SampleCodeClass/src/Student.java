@@ -33,9 +33,9 @@ public class Student {
 
     }
     
-    int countAll1() 
+    int myTest() 
     { 
-        return 0; 
+        
     }
 
     void testAll()
