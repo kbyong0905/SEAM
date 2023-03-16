@@ -37,6 +37,11 @@ public class Student {
     {
     
     }
+
+    int countAll() 
+    { 
+        return 0;
+    }
    
     void testAll()
     {
