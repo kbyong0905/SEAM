@@ -32,21 +32,15 @@ public class Student {
         System.out.println("Testing...");
 
     }
-
-    void myTest()
-    {
     
+    int countAll1() 
+    { 
+        return 0; 
     }
 
-    int countAll() 
-    { 
-        return 0;
-    }
-   
     void testAll()
     {
         System.out.println("Hello");
         return;
     }
 
-}
