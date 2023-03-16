@@ -33,21 +33,19 @@ public class Student {
 
     }
     
-    
-    
     int myTest() 
     { 
         
-    }
-
-    void FkGITHUB()
-    {
-        System.out.println("Testing...");
     }
 
     void testAll()
     {
         System.out.println("Hello");
         return;
+    }
+
+    void WhyFypSoHard()
+    {
+        System.out.println("Dr Aw Problem")
     }
 
