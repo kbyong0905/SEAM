@@ -40,6 +40,11 @@ public class Student {
         
     }
 
+    void FkGITHUB()
+    {
+        System.out.println("Testing...");
+    }
+
     void testAll()
     {
         System.out.println("Hello");
